@@ -1,1 +1,1 @@
-# WattWise-BW
+# WattWise
